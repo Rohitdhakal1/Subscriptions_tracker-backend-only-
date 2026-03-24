@@ -2,6 +2,7 @@
 
 A robust and secure backend API for managing recurring subscriptions with automated email reminders. This project leverages modern technologies to provide a high-performance experience, focusing on automation, security, and scalability.
 
+
 ## Core Features
 
 - **Automated Workflows**: Uses Upstash Workflows to schedule and manage subscription renewal reminders (7, 5, 2, and 1 days before renewal).
@@ -83,10 +84,13 @@ For detailed instructions on how to test individual components like Nodemailer a
 node test-nodemailer.js
 ```
 
+Almost all things running perfectly.Any error occur will be fixed in the future.
+
 ## Contributing
 
 Contributions are welcome. Please ensure that all new code follows the existing patterns and passes any linting rules.
 
 ## License
 
-This project is private and for internal use.
+This project is for learning purpose and for personal use.
+
