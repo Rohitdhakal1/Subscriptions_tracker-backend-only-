@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Build/Dist
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing
+coverage/
+.nyc_output
+test-nodemailer.js
